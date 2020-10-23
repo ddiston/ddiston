@@ -38,9 +38,9 @@
 
 ## GitHub Activity
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ddiston&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ddiston&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Joined GitHub in August 2020
+Joined GitHub August 6th 2020
 <!--
 **ddiston/ddiston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
