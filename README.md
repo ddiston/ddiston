@@ -28,6 +28,12 @@
 <img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 <img align="left" alt="ScikitLearn" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />
 
+
+<br />
+<br />
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ddiston&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ddiston/ddiston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
