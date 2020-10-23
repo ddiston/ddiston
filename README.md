@@ -5,7 +5,7 @@
 ## Welcome to My GitHub Portfolio!
 
 
-- 🔭 I’m currently working on a personal EDA/Visualization project with World Health data
+- ⚙ I’m currently working on a personal EDA/Visualization project with World Health data
 - 👨‍🎓 Education:
 
         - BSc Graduate in Health Sciences (Epidemiology/Statistics) from Brock University
