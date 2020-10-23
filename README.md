@@ -1,5 +1,7 @@
 # Hi I'm David 👋
 
+<br />
+
 ## Welcome to My GitHub Portfolio!
 
 
@@ -13,6 +15,8 @@
 - 👓 I'm currently looking for work
 - 📫 How to reach me: davidjdiston@gmail.com / [LinkedIn](https://www.linkedin.com/in/daviddiston/)
 - ⚡ Fun fact: I am a former Opera Singer (baritone), and have performed for audiences across North America and Europe 🎵
+
+<br />
 
 
 
@@ -31,6 +35,9 @@
 
 <br />
 <br />
+<br />
+
+## GitHub Activity
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ddiston&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
