@@ -10,8 +10,7 @@
 
         - BSc Graduate in Health Sciences (Epidemiology/Statistics) from Brock University
         - Diploma Graudate in Data Science from BrainStation
-        - MMus in Opera Performance from the University of Toronto
-        - BMus in Vocal Performance from the University of Western Ontario
+
 - 👓 I'm currently looking for work
 - 📫 How to reach me: davidjdiston@gmail.com / [LinkedIn](https://www.linkedin.com/in/daviddiston/)
 - ⚡ Fun fact: I am a former Opera Singer (baritone), and have performed for audiences across North America and Europe 🎵
