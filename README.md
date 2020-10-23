@@ -12,6 +12,11 @@
         - Diploma Graudate in Data Science from BrainStation
 
 - 👓 I'm currently looking for work
+
+        - Toronto, Canada
+        - Berlin, Germany
+        - Open to Remote Work
+
 - 📫 How to reach me: davidjdiston@gmail.com / [LinkedIn](https://www.linkedin.com/in/daviddiston/)
 - ⚡ Fun fact: I am a former Opera Singer (baritone), and have performed for audiences across North America and Europe 🎵
 
