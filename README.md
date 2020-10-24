@@ -31,8 +31,8 @@
 <img align="left" alt="SKLearn" width="40px" src="images/scikit-learn.png" />
 <img align="left" alt="TensorFlow" width="40px" src="images/tensorflow.png" />
 <img align="left" alt="AWS" width="40px" src="images/aws.png" />
-<img align="left" alt="Hadoop" width="40px" src="images/hadoop.jpg" />
-<img align="left" alt="Spark" width="40px" src="images/spark.jpg" />
+<img align="left" alt="Hadoop" width="40px" src="images/hadoop.png" />
+<img align="left" alt="Spark" width="40px" src="images/spark.png" />
 <img align="left" alt="SQL" width="40px" src="images/sql.png" />
 <img align="left" alt="MySQL" width="40px" src="images/mysql.png" />
 <img align="left" alt="Git" width="40px" src="images/git.png" />
