@@ -26,19 +26,19 @@
 
 ## Skills and Tools:
 
-<img align="left" alt="VSCode" width="50px" src="images/visual-studio-code.png" />
-<img align="left" alt="Python" width="50px" src="images/python.png" />
-<img align="left" alt="SKLearn" width="50px" src="images/scikit-learn.png" />
-<img align="left" alt="TensorFlow" width="50px" src="images/tensorflow.png" />
-<img align="left" alt="AWS" width="50px" src="images/aws.png" />
-<img align="left" alt="Hadoop" width="50px" src="images/hadoop.jpg" />
-<img align="left" alt="Spark" width="50px" src="images/spark.jpg" />
-<img align="left" alt="SQL" width="50px" src="images/sql.png" />
-<img align="left" alt="MySQL" width="50px" src="images/mysql.png" />
-<img align="left" alt="Git" width="50px" src="images/git.png" />
-<img align="left" alt="GitBash" width="50px" src="images/git-bash.png" />
-<img align="left" alt="Tablea" width="50px" src="images/tableau.png" />
-<img align="left" alt="ML" width="50px" src="images/machine-learning.jpg" />
+<img align="left" alt="VSCode" width="40px" src="images/visual-studio-code.png" />
+<img align="left" alt="Python" width="40px" src="images/python.png" />
+<img align="left" alt="SKLearn" width="40px" src="images/scikit-learn.png" />
+<img align="left" alt="TensorFlow" width="40px" src="images/tensorflow.png" />
+<img align="left" alt="AWS" width="40px" src="images/aws.png" />
+<img align="left" alt="Hadoop" width="40px" src="images/hadoop.jpg" />
+<img align="left" alt="Spark" width="40px" src="images/spark.jpg" />
+<img align="left" alt="SQL" width="40px" src="images/sql.png" />
+<img align="left" alt="MySQL" width="40px" src="images/mysql.png" />
+<img align="left" alt="Git" width="40px" src="images/git.png" />
+<img align="left" alt="GitBash" width="40px" src="images/git-bash.png" />
+<img align="left" alt="Tablea" width="40px" src="images/tableau.png" />
+<img align="left" alt="ML" width="40px" src="images/machine-learning.jpg" />
 
 
 <br />
