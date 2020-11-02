@@ -1,8 +1,6 @@
-# Hi I'm David 👋
+![](images/IMG_0277.JPG)
 
-<br />
-
-## Welcome to My GitHub Portfolio!
+# Hi I'm David! Welcome to My GitHub Portfolio
 
 
 - ⚙ I’m currently working on several personal projects to build out my portfolio of work
