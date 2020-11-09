@@ -3,7 +3,7 @@
 # Hi I'm David! Welcome to My GitHub Portfolio
 
 
-- ⚙ I’m currently working on several personal projects to build out my portfolio of work
+- ⚙ I’m currently working on several personal projects to build out my portfolio
 - 👨‍🎓 Education:
 
 >        - BSc Graduate in Health Sciences (Epidemiology/Statistics) from Brock University
