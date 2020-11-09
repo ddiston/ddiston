@@ -6,10 +6,11 @@
 - ⚙ I’m currently working on several personal projects to build out my portfolio
 - 👨‍🎓 Education:
 
-> 
+>     Technical:
 >        - Honours BSc Graduate in Health Sciences (Epidemiology/Statistics) from Brock University
 >        - Diploma Graudate in Data Science from BrainStation
 >
+>     Music:
 >        - Master of Music (Opera Performance) from the University of Toronto
 >        - Honours Bachelor of Music (Vocal Performance) from Western University (UWO)
 
