@@ -7,7 +7,7 @@
 - 👨‍🎓 Education:
 
 >     Technical:
->        - Honours BSc Graduate in Health Sciences (Epidemiology/Statistics) from Brock University
+>        - Honours B.Sc. Graduate in Health Sciences (Epidemiology/Statistics) from Brock University
 >        - Diploma Graudate in Data Science from BrainStation
 >        - Specialization Certificate in Applied Data Science from the University of Michigan (Feb 2021)
 >
