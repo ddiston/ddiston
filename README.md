@@ -11,7 +11,7 @@
 >        - Diploma Graudate in Data Science from BrainStation
 >        - Specialization Certificate in Applied Data Science from the University of Michigan (Feb 2021)
 
->     Music:
+>     Other:
 >        - Master of Music (Opera Performance) from the University of Toronto
 >        - Honours Bachelor of Music (Vocal Performance) from Western University (UWO)
 
