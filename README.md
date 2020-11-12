@@ -13,7 +13,7 @@
 
 >     Other:
 >        - Master of Music (Opera Performance) from the University of Toronto
->        - Honours Bachelor of Music (Vocal Performance) from Western University (UWO)
+>        - Honours Bachelor of Music (Vocal Performance) from Western University
 
 - 👓 I'm currently looking for work
 
